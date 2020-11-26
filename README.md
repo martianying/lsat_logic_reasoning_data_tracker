@@ -30,4 +30,4 @@ Note: "histogram.png" will show the time you update it so as to avoid any confus
 
 
 # what else?
-I just realized this could be used for any self-learning process besides LSAT. If you find this helpful and use this for your own test preparation, I would be extremely happy if you could kindly send me an email saying "hey veronica! good job and keep working! you will be a good detective one day :)"
+I just realized this could be used for any self-learning process besides LSAT. If you find this helpful and use this for your own test preparation, I would be extremely happy if you could kindly send me an email saying "hey veronica! good job and keep working! you will be a good litigator one day :)"
