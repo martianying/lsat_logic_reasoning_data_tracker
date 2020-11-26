@@ -25,7 +25,7 @@ run $ python main.py
 >> you will be asked to input the number of your wrong questions. (split each number by one space, like this " ")
 >> you will get two plots. one is "histogram.png", the other is "accurate_rate.png"
 
-Note: "histogram.png" will show the time you update it so as to avoid any confusion. It also only shows the accurate rate of the latest LG sesstion you've done. the "accurate_rate.png" will show the history!
+Note: "histogram.png" will show the time you update it so as to avoid any confusion. It also only shows the accurate rate of the latest LR sesstion you've done. the "accurate_rate.png" will show the history!
 
 
 
